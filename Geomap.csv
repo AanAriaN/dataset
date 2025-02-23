@@ -1,6 +1,6 @@
-Location Name,Latitude,Longitude,Description
-New York,"40.712776","-74.005974",Largest city in the USA
-Los Angeles,"34.052235","-118.243683",City of Angels
-Chicago,"41.878113","-87.629799",Windy City
-Houston,"29.760427","-95.369804",Space City
-Miami,"25.761681","-80.191788",The Magic City
+Name,Latitude,Longitude,Description
+New York,40.712776,-74.005974,Largest city in the USA
+Los Angeles,34.052235,-118.243683,City of Angels
+Chicago,41.878113,-87.629799,Windy City
+Houston,29.760427,-95.369804,Space City
+Miami,25.761681,-80.191788,The Magic City
